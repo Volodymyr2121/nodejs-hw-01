@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "1a67d7a7-bc1f-4da5-b05a-7d0f3274631b",
+    "name": "Leticia Torphy Sr.",
+    "phone": "808.407.2781 x98799",
+    "email": "Ray.Grant14@yahoo.com",
+    "job": "Customer Integration Orchestrator"
+  },
+  {
+    "id": "341fd121-de70-44e0-b796-38a601b1a5f5",
+    "name": "Amanda Bruen",
+    "phone": "386-703-0513 x38562",
+    "email": "Danyka_Deckow95@yahoo.com",
+    "job": "Internal Assurance Specialist"
+  },
+  {
+    "id": "3143b083-fa37-4e03-98c4-4114450f69e5",
+    "name": "Jessica Langworth",
+    "phone": "(249) 975-0221 x2457",
+    "email": "Jacques.Glover42@yahoo.com",
+    "job": "National Implementation Facilitator"
+  },
+  {
+    "id": "82a2f234-c11c-484c-9468-f23ab6afabe6",
+    "name": "Ethel Dare",
+    "phone": "409-891-0061 x1970",
+    "email": "Vella.Grimes@yahoo.com",
+    "job": "Senior Creative Agent"
+  }
+]
